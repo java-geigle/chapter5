@@ -10,22 +10,22 @@ public class weekDay {
 
         switch(day){
 
-            case"monday":
-                result = "reserve room for friday meeting ";
-                break;
-            case"tuesday":
-                result = "prepare powerpoint slides";
-                break;
-            case"wednesday":
-                result = "send out reminders ";
-                break;
-            case"thursday":
-                result = "getting ready for football friday ";
-                break;
-            case"friday":
-                result = "wear spirit wear for game SPACE THEME";
-                break;
-            default:
+                case"monday":
+                    result = "reserve room for friday meeting ";
+                    break;
+                case"tuesday":
+                    result = "prepare powerpoint slides";
+                    break;
+                case"wednesday":
+                    result = "send out reminders ";
+                    break;
+                case"thursday":
+                    result = "getting ready for football friday ";
+                    break;
+                case"friday":
+                    result = "wear spirit wear for game SPACE THEME";
+                    break;
+                default:
                 result ="invalid";
 
 

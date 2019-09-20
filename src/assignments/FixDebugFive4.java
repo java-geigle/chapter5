@@ -28,7 +28,7 @@ public class FixDebugFive4
             output = "Highest is " + three;
         else output = "Highest is " + four;
         JOptionPane.showMessageDialog(null, output);
-    
+
     }
 }
 
